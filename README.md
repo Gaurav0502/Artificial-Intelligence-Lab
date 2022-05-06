@@ -14,3 +14,5 @@ Week 7 : Min Max Algorithm
 
 Week 8 : Alpha Beta Pruning
 
+Week 9 and 10 : Bayesian Network Analysis
+
